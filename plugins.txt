@@ -1,0 +1,6 @@
+parameterized-trigger latest
+jquery latest
+build-pipeline-plugin latest
+clone-workspace-scm latest
+copyartifact latest
+build-name-setter latest
